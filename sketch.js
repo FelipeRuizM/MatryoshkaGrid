@@ -25,7 +25,7 @@ function draw() {
             pieces[i][j].showPiece();
     
     if (debugMode)
-        gridDebugger();
+        //gridDebugger();
         
     if (gameOver) 
         showText();
